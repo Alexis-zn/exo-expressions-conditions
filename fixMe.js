@@ -1,4 +1,4 @@
-let list = ['Alice', 'Bob', 'Charlie', 'Craig', 'Eva']
+let list = ['Alice', 'Bob', 'Charlie', 'Craig', 'Eve']
 
 for (let j = 0; j < list.length; j++) {
   list[j]= list[j].toUpperCase()
@@ -15,8 +15,8 @@ for (let j = 0; j < list.length; j++) {
     case 'CRAIG':
     console.log('Craig is a password cracker')
       break
-    case 'EVA':
-    console.log('Eva is an eavesdropper')
+    case 'EVE':
+    console.log('Eve is an eavesdropper')
       break
   }
 }
