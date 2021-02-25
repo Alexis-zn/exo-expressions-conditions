@@ -16,7 +16,7 @@ for (let j = 0; j < list.length; j++) {
     console.log('Craig is a password cracker')
       break
     case 'EVA':
-    console.log('Eve is an eavesdropper')
+    console.log('Eva is an eavesdropper')
       break
   }
 }
